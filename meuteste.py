@@ -1,2 +1,3 @@
+# wrr v4
 print("Laroye!")
-print("Exu e mojuba!") # Comentario
+print("Exu e mojuba!")
