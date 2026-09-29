@@ -1,3 +1,3 @@
-# wrr v4
-print("Laroye!")
-print("Exu e mojuba!")
+# wrr v5
+print("Laroye Exu!")
+print("Exu a mojuba!")
